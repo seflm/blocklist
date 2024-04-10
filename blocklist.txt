@@ -5587,7 +5587,6 @@ $removeparam=afftrack
 ||getblue.io^
 ||azerion.com^
 ||adrino.pl^
-||seznam.cz^
 ||tappx.com^
 ||maximiles.com^
 ||contactimpact.de^
