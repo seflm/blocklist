@@ -5,6 +5,8 @@
 ! Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
 ! Version: 20220723
 
+||fbcdn.net^
+
 ||statistiek.rijksoverheid.nl^
 ||rtcstats-server.jitsi.net^
 ||privatestats.whatsapp.net^
