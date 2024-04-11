@@ -1855,7 +1855,6 @@
 ||dcniko1cv0rz.cloudfront.net^
 ||realytics.io^
 ||imedia.cz^
-||im.cz^
 ||signal.co^
 ||tailtarget.com^
 ||districtm.io^
