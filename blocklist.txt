@@ -18991,7 +18991,6 @@ estunt.nl##+js(aopr, document.title)
 ||bing.com/proactive^
 ||bing.com/client^
 ||candycrushsoda.king.com^
-||star-mini.c10r.facebook.com^
 ||wildcard.twimg.com^
 ||oem.twimg.com/windows/tile.xml^
 ||oem.twimg.com^
